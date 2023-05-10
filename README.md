@@ -1,2 +1,2 @@
 # lambda-samples-java
-lambda handler samples using java.
+aws lambda handler samples using java.
